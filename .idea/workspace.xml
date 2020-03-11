@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b36cd62f-68a6-48ee-a1ef-03e6a86d823d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Substep Feature" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YqNN0zKzq3sUmJDJBa5b0Tzb7X" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources/BrowserDrivers" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Orange1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Dev\OrangeHRM\src\test\resources\BrowserDrivers" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="RunTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OrangeHRM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Orange1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Orange1" />
+      <option name="MAIN_CLASS_NAME" value="Orange1.RunTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RunTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b36cd62f-68a6-48ee-a1ef-03e6a86d823d" name="Default Changelist" comment="" />
+      <created>1583666120462</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583666120462</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="100" width="1170" height="528" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1583787521886">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="96" y="100" width="1170" height="528" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1583787521886" />
+    <state x="424" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583668153055">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="424" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1583668153055" />
+    <state x="411" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583787458201">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="411" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1583787458201" />
+    <state width="1323" height="176" key="GridCell.Tab.0.bottom" timestamp="1583950467172">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583950467172" />
+    <state width="1323" height="176" key="GridCell.Tab.0.center" timestamp="1583950467172">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583950467172" />
+    <state width="1323" height="176" key="GridCell.Tab.0.left" timestamp="1583950467172">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583950467172" />
+    <state width="1323" height="176" key="GridCell.Tab.0.right" timestamp="1583950467172">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583950467172" />
+    <state x="211" y="18" key="Maven.ArtifactSearchDialog" timestamp="1583669582452">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="211" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1583669582452" />
+    <state x="63" y="59" key="new project wizard" timestamp="1583760117138">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="63" y="59" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1583760117138" />
+    <state x="433" y="285" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1583772266870">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="433" y="285" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1583772266870" />
+    <state x="387" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1583710635942">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="387" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1583710635942" />
+    <state x="337" y="164" key="run.anything.popup" timestamp="1583667595557">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="337" y="164" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1583667595557" />
+    <state x="337" y="21" width="670" height="676" key="search.everywhere.popup" timestamp="1583677062946">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="337" y="21" width="670" height="676" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1583677062946" />
+  </component>
+</project>
